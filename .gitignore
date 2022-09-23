@@ -1,0 +1,11 @@
+# MacOS file system
+.DS_Store
+
+# Local environment variables
+.env
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
